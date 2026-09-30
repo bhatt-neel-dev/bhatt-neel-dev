@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,60:134074,100:1F6FEB&height=190&section=header&text=Neel%20Bhatt&fontSize=62&fontColor=F5F8FC&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Agentic%20systems%20%C2%B7%20Observability&descAlignY=68&descSize=17&animation=fadeIn" width="100%" alt="Neel Bhatt, AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,60:3B2A7A,100:6D28D9&height=190&section=header&text=Neel%20Bhatt&fontSize=62&fontColor=F5F3FF&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Agentic%20systems%20%C2%B7%20Observability&descAlignY=68&descSize=17&animation=fadeIn" width="100%" alt="Neel Bhatt, AI Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3600&pause=1200&color=3B82F6&center=true&vCenter=true&width=680&lines=I+build+AI+agents+that+hold+up+in+production.;Top+code+contributor+to+Agno.;Creator+of+APILens%2C+open-source+API+observability." alt="I build AI agents that hold up in production." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3600&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&lines=I+build+AI+agents+that+hold+up+in+production.;Top+code+contributor+to+Agno.;Creator+of+APILens%2C+open-source+API+observability." alt="I build AI agents that hold up in production." />
 </p>
 
 <p align="center">
-  <a href="https://bhattneel.com"><img src="https://img.shields.io/badge/bhattneel.com-0B2545?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/neel-bhatt-5bb859144/"><img src="https://img.shields.io/badge/LinkedIn-134074?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://apilens.ai"><img src="https://img.shields.io/badge/apilens.ai-1F6FEB?style=for-the-badge&logo=lightning&logoColor=white" /></a>
-  <a href="https://medium.com/@lets.see.1016"><img src="https://img.shields.io/badge/Medium-13315C?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:bneel.2101@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bhattneel.com"><img src="https://img.shields.io/badge/bhattneel.com-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/neel-bhatt-5bb859144/"><img src="https://img.shields.io/badge/LinkedIn-3B2A7A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://apilens.ai"><img src="https://img.shields.io/badge/apilens.ai-6D28D9?style=for-the-badge&logo=lightning&logoColor=white" /></a>
+  <a href="https://medium.com/@lets.see.1016"><img src="https://img.shields.io/badge/Medium-2E1065?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:bneel.2101@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -65,8 +65,8 @@ Named in Agno's [December 2025](https://www.agno.com/blog/community-roundup-dece
 #### [APILens](https://github.com/apilens/apilens)
 Open-source API observability. It links traces, logs and metrics across your whole API stack, so one view explains a slow or failing request. Working toward a public beta.
 
-[![apilens.ai](https://img.shields.io/badge/apilens.ai-visit-1F6FEB?style=flat-square)](https://apilens.ai)
-![TypeScript](https://img.shields.io/badge/TypeScript-134074?style=flat-square&logo=typescript&logoColor=white)
+[![apilens.ai](https://img.shields.io/badge/apilens.ai-visit-6D28D9?style=flat-square)](https://apilens.ai)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B2A7A?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -74,9 +74,9 @@ Open-source API observability. It links traces, logs and metrics across your who
 #### [Multi-Agent RCA](https://github.com/bhatt-neel-dev/Multi-Agent-RCA)
 Give it a stack trace, and four agents find the root cause, plan a fix, write the patch and open a pull request for review.
 
-[![demo](https://img.shields.io/badge/Loom-watch%20demo-1F6FEB?style=flat-square&logo=loom&logoColor=white)](https://www.loom.com/share/6c3c38e4ef204669a4ef946d8d62b3a4)
-![Agno](https://img.shields.io/badge/Agno-AgentOS-134074?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-134074?style=flat-square&logo=fastapi&logoColor=white)
+[![demo](https://img.shields.io/badge/Loom-watch%20demo-6D28D9?style=flat-square&logo=loom&logoColor=white)](https://www.loom.com/share/6c3c38e4ef204669a4ef946d8d62b3a4)
+![Agno](https://img.shields.io/badge/Agno-AgentOS-3B2A7A?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-3B2A7A?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -91,17 +91,17 @@ Give it a stack trace, and four agents find the root cause, plan a fix, write th
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agno-0B2545?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-0B2545?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-0B2545?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude-134074?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-134074?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiteLLM-134074?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Langfuse-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-1F6FEB?style=flat-square&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-3B82F6?style=flat-square&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPA-3B82F6?style=flat-square&logo=openpolicyagent&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agno-1E1B4B?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-1E1B4B?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-1E1B4B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude-3B2A7A?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-3B2A7A?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteLLM-3B2A7A?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Langfuse-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-6D28D9?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-8B5CF6?style=flat-square&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPA-8B5CF6?style=flat-square&logo=openpolicyagent&logoColor=white" />
 </p>
 
 ---
@@ -109,16 +109,10 @@ Give it a stack trace, and four agents find the root cause, plan a fix, write th
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhatt-neel-dev&hide_border=true&background=0B2545&stroke=1F6FEB&ring=3B82F6&fire=3B82F6&currStreakNum=F5F8FC&sideNums=F5F8FC&currStreakLabel=8DB4F0&sideLabels=8DB4F0&dates=8DA9C4" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhatt-neel-dev&hide_border=true&background=1E1B4B&stroke=6D28D9&ring=8B5CF6&fire=8B5CF6&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=A5A1C9" height="170" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhatt-neel-dev/bhatt-neel-dev/output/snake-dark.svg" />
-    <img alt="Contribution graph" src="https://raw.githubusercontent.com/bhatt-neel-dev/bhatt-neel-dev/output/snake.svg" />
-  </picture>
-</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,40:134074,100:0B2545&height=6&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,40:3B2A7A,100:1E1B4B&height=6&section=footer" width="100%" />
 </p>
